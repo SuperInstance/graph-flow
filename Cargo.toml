@@ -1,0 +1,11 @@
+[package]
+name = "graph-flow"
+version = "0.1.0"
+edition = "2021"
+description = "Network flow algorithms: Ford-Fulkerson, Edmonds-Karp, min-cost max flow, bipartite matching, circulation with demands"
+license = "MIT"
+repository = "https://github.com/SuperInstance/graph-flow"
+keywords = ["graph", "flow", "network", "matching", "algorithms"]
+categories = ["algorithms", "mathematics", "science"]
+
+[dependencies]
